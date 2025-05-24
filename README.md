@@ -32,7 +32,8 @@ named-checkconf and named-checkzone
 # Screenshots:
 Screenshots of my terminal output, zone file structure, configuration files, and DNS query results will be included to document each step of the process.
 
-Run ifconfig command to see what my ip address is "C:\Users\USER\OneDrive\Pictures\Screenshots\ifconfig.png"
+Run ifconfig command to see what my ip address is ![ifconfig](https://github.com/user-attachments/assets/60efd6bd-2024-480d-b23e-b4b57d2da9e5)
+
 
 
 
