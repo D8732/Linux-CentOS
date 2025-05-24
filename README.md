@@ -29,7 +29,7 @@ named-checkconf and named-checkzone
 
 
 
-Screenshots:
+# Screenshots:
 Screenshots of my terminal output, zone file structure, configuration files, and DNS query results will be included to document each step of the process.
 
 
