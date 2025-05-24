@@ -34,6 +34,15 @@ Screenshots of my terminal output, zone file structure, configuration files, and
 
 
 
+
+
+
+
+
+
+
+
+
 Skills Practiced:
 Linux system administration
 
