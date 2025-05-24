@@ -43,7 +43,7 @@ Screenshots of my terminal output, zone file structure, configuration files, and
 
 
 
-Skills Practiced:
+# Skills Practiced:
 Linux system administration
 
 DNS fundamentals and troubleshooting
